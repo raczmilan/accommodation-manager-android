@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="button_new">New Hotel</string>
+    <string name="text_name">Hotel name:</string>
+    <string name="text_address">Address:</string>
+    <string name="text_webpage">Webpage:</string>
+    <string name="text_phone">Phone number:</string>
+    <string name="hint_name">hotel name</string>
+    <string name="hint_address">address</string>
+    <string name="hint_webpage">webpage</string>
+    <string name="hint_phone">phone number</string>
+    <string name="button_save">Save Hotel</string>
+</resources>
